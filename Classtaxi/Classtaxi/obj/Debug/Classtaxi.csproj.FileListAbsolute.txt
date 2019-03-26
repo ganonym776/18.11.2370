@@ -1,0 +1,6 @@
+C:\Users\amikom\18.11.2370\Classtaxi\Classtaxi\bin\Debug\Classtaxi.dll
+C:\Users\amikom\18.11.2370\Classtaxi\Classtaxi\bin\Debug\Classtaxi.pdb
+C:\Users\amikom\18.11.2370\Classtaxi\Classtaxi\obj\Debug\Classtaxi.csprojAssemblyReference.cache
+C:\Users\amikom\18.11.2370\Classtaxi\Classtaxi\obj\Debug\Classtaxi.csproj.CoreCompileInputs.cache
+C:\Users\amikom\18.11.2370\Classtaxi\Classtaxi\obj\Debug\Classtaxi.dll
+C:\Users\amikom\18.11.2370\Classtaxi\Classtaxi\obj\Debug\Classtaxi.pdb
