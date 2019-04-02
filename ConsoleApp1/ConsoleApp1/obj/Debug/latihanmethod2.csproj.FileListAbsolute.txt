@@ -1,0 +1,7 @@
+c:\users\amikom\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\amikom\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\amikom\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\amikom\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\latihanmethod2.csprojAssemblyReference.cache
+c:\users\amikom\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\latihanmethod2.csproj.CoreCompileInputs.cache
+c:\users\amikom\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\amikom\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
